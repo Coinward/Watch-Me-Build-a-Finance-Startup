@@ -1,8 +1,4 @@
-# AI Startup with PyTorch
-
-## Overview
-
-This is the code for [this](https://youtu.be/oeraUtRgsbI) video on Youtube by Siraj Raval on building an Finance Startup. You should use this code and the video as a boilerplate for building your own AI startup.
+# Pile
 
 ## #AISTARTUPCHALLENGE
 
