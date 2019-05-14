@@ -2,11 +2,6 @@
 
 ## #AISTARTUPCHALLENGE
 
-![alt text](https://camo.githubusercontent.com/014e8fd4face8a37ecb279dcc2bee5675579b8b1/68747470733a2f2f692e696d6775722e636f6d2f5053314a3673512e706e67 "Logo Title Text 1")
-
-Due date is May 15 2019 
-Submit your entry [here](https://forms.gle/9b2rwMDZYcF6XGSN8). 
-
 
 ## Call for Pull Requests
 
