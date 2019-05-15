@@ -1,4 +1,4 @@
-# Pile
+# Coinward App
 
 ## #AISTARTUPCHALLENGE
 
